@@ -106,14 +106,14 @@ struct María: SenioriOSDeveloper {
 ### Fun metrics
 
 ```
-🗓️  iOS Developer since:                        2013
-💀  Unexplained SIGABRT crashes:               many (solved every single one)
-🍕  Bugs fixed on a Friday at 5pm:             more than recommended
-📱  Apps in production used by real people:    ✅
-🚌  Transportation & public mobility projects: several
-🧠  Mental health apps shipped:                1  (learned more than expected)
-🌍  Countries where my apps have run:          NL 🇳🇱 · ES 🇪🇸 · and counting
-☕  Coffee needed to review someone else's PR: depends on the diff size
+📅  iOS Developer since:                        2013
+💀  Unexplained SIGABRT crashes:                many (solved every single one)
+🍕  Bugs fixed on a Friday at 5pm:              more than recommended
+📱  Apps in production used by real people:     ✅
+🚌  Transportation & public mobility projects:  several
+🧠  Mental health apps shipped:                 1  (learned more than expected)
+🌍  Countries where my apps have run:           NL 🇳🇱 · US 🇺🇸 · DE 🇩🇪 · PT 🇵🇹 · ES 🇪🇸 · 🇪🇺 and counting
+☕  Coffee needed to review someone else's PR:   depends on the diff size
 ```
 
 ---
