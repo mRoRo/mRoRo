@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=F05138&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Hola%2C+soy+Mar%C3%ADa+%F0%9F%91%8B;Senior+iOS+Developer+%C2%B7+since+2013;Bugs+bien+controlados+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1200&color=F05138&center=true&vCenter=true&multiline=true&width=700&height=140&lines=Hi%2C+I%27m+Mar%C3%ADa+%F0%9F%91%8B;Senior+iOS+Developer+%C2%B7+since+2013;Bugs+firmly+under+control+%E2%9C%85" alt="Typing SVG" />
 </div>
 
 <br>
@@ -27,20 +27,20 @@ struct María: SenioriOSDeveloper {
     }
 
     func debug() -> Never {
-        print("aquí llega") // clásico
-        print("aquí no llega") // ¿o sí?
-        fatalError("Xcode ha decidido reiniciarse ahora")
+        print("this line runs") // classic
+        print("this one doesn't") // or does it?
+        fatalError("Xcode has decided to restart now")
     }
 }
 ```
 
 ---
 
-### About me · Sobre mí
+### About me
 
-🇬🇧 I build iOS apps that people actually use — from mental health platforms protecting patient data under GDPR, to EU border control systems for freight carriers, to Bluetooth beacon SDKs improving accessibility in public transport. With a Master's in Telecommunications Engineering and over a decade in Swift and Objective-C, I combine deep technical knowledge with clean architecture, rigorous testing, and a genuine obsession with accessibility and user experience.
+🇬🇧 I build iOS apps that people actually use — and none of them have crashed in a way I couldn't explain. Mental health platforms where GDPR compliance is non-negotiable, EU-funded border logistics running in real trucks across real borders, and Bluetooth SDKs making public transport accessible for visually impaired users. A Master's in Telecommunications Engineering, 12+ years in Swift (and some Objective-C I try not to mention), and an architecture philosophy that aged well when I had to maintain it myself.
 
-🇪🇸 Construyo apps iOS que la gente realmente usa — desde plataformas de salud mental protegiendo datos de pacientes bajo el RGPD, hasta sistemas de control fronterizo de la UE para transportistas, pasando por SDKs de balizas Bluetooth que mejoran la accesibilidad en el transporte público. Con un Máster en Ingeniería de Telecomunicaciones y más de una década en Swift y Objective-C, combino conocimiento técnico profundo con arquitectura limpia, testing riguroso y una obsesión genuina por la accesibilidad y la experiencia de usuario.
+🇪🇸 Construyo apps iOS que la gente usa de verdad — y ninguna ha petado de una forma que no haya podido explicar. Plataformas de salud mental donde el RGPD no es opcional, sistemas de logística fronteriza para la UE que corren en camiones de verdad, y SDKs Bluetooth que hacen el transporte público accesible para personas con discapacidad visual. Un Máster en Ingeniería de Telecomunicaciones, más de 12 años en Swift (y algo de Objective-C del que prefiero no hablar), y una filosofía de arquitectura que aguantó bien cuando me tocó mantenerla a mí misma.
 
 ---
 
@@ -66,7 +66,7 @@ struct María: SenioriOSDeveloper {
 
 ---
 
-### Experience · Trayectoria
+### Experience
 
 ```
 2022 ──── 2025  │  Minddistrict NL   │  iOS Dev  ·  Mental health & wellness platform
@@ -103,22 +103,22 @@ struct María: SenioriOSDeveloper {
 
 ---
 
-### Fun metrics · Datos que importan
+### Fun metrics
 
 ```
-🗓️  iOS Developer since:                         2013
-💀  Crashes de SIGABRT sin explicación obvia:    muchos (y los he solucionado todos)
-🍕  Bugs arreglados un viernes a las 5pm:        más de los recomendables
-📱  Apps en producción usadas por personas reales:   ✅
-🚌  Proyectos de transporte público y movilidad: varios
-🧠  Apps de salud mental lanzadas:               1  (y aprendí más de lo esperado)
-🌍  Países donde han corrido mis apps:           NL 🇳🇱 · ES 🇪🇸 · y contando
-☕  Café para revisar una PR ajena:              depende del tamaño del diff
+🗓️  iOS Developer since:                        2013
+💀  Unexplained SIGABRT crashes:               many (solved every single one)
+🍕  Bugs fixed on a Friday at 5pm:             more than recommended
+📱  Apps in production used by real people:    ✅
+🚌  Transportation & public mobility projects: several
+🧠  Mental health apps shipped:                1  (learned more than expected)
+🌍  Countries where my apps have run:          NL 🇳🇱 · ES 🇪🇸 · and counting
+☕  Coffee needed to review someone else's PR: depends on the diff size
 ```
 
 ---
 
-### Let's connect · Hablamos
+### Let's connect
 
 <div align="center">
 
@@ -132,7 +132,7 @@ struct María: SenioriOSDeveloper {
 
 <div align="center">
   <sub>
-    Made with ❤️ and a suspicious amount of <code>print("aquí llega")</code> debuggers
+    Made with ❤️ and a suspicious amount of <code>print("this works... right?")</code> debuggers
     <br><br>
     <img src="https://komarev.com/ghpvc/?username=mRoRo&style=flat-square&color=F05138&label=profile+views" alt="Profile views" />
   </sub>
