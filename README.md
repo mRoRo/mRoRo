@@ -48,7 +48,7 @@ struct María: SenioriOSDeveloper {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,xcode,kotlin,git,github,gitlab,jenkins,linux&theme=dark" alt="Tech stack icons"/>
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,reactivex,git,github,gitlab,jenkins,figma,postman&theme=dark" alt="Tech stack icons"/>
   </a>
 </div>
 
