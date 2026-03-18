@@ -91,6 +91,14 @@ struct María: SenioriOSDeveloper {
 
 ---
 
+### Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mRoRo&bg_color=0d1117&color=c9d1d9&line=F05138&point=F05138&area=true&area_color=F05138&hide_border=true" alt="Contribution activity graph" />
+</div>
+
+---
+
 ### Contribution Graph · Snake Edition 🐍
 
 <div align="center">
