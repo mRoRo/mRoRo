@@ -122,6 +122,8 @@ struct María: SenioriOSDeveloper {
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mariarodriguez.dev-F05138?style=for-the-badge&logo=astro&logoColor=white)](https://mariarodriguez.dev)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-María_Rodríguez_Rojo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariarodriguezrojo/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.rodriguez1@gmail.com)
