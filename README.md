@@ -38,9 +38,9 @@ struct María: SenioriOSDeveloper {
 
 ### About me
 
-🇬🇧 I build iOS apps that people actually use — and none of them have crashed in a way I couldn't explain. My work spans mental health platforms where GDPR compliance is non-negotiable, EU-funded border logistics running in real trucks across real borders, and Bluetooth SDKs making public transport accessible for visually impaired users. I bring a Master's in Telecommunications Engineering, 12+ years in Swift (and some Objective-C I try not to mention), and an architecture philosophy that aged well when I had to maintain it myself.
+🇬🇧 I build iOS apps that people actually use — and none of them have crashed in a way I couldn't explain. My work spans mental health platforms where GDPR compliance is non-negotiable, EU-funded border logistics running in real trucks across real borders, and Bluetooth SDKs making public transport accessible for visually impaired users. I bring a Master's in Telecommunications Engineering, over a decade in Swift (and some Objective-C I try not to mention), and an architecture philosophy that aged well when I had to maintain it myself.
 
-🇪🇸 Construyo apps iOS que la gente usa de verdad — y ninguna ha petado de una forma que no haya podido explicar. Mi trayectoria abarca plataformas de salud mental donde el RGPD no es opcional, sistemas de logística fronteriza para la UE que corren en camiones de verdad, y SDKs Bluetooth que hacen el transporte público accesible para personas con discapacidad visual. Tengo un Máster en Ingeniería de Telecomunicaciones, más de 12 años en Swift (y algo de Objective-C del que prefiero no hablar), y una filosofía de arquitectura que aguantó bien cuando me tocó mantenerla a mí misma.
+🇪🇸 Construyo apps iOS que la gente usa de verdad — y ninguna ha petado de una forma que no haya podido explicar. Mi trayectoria abarca plataformas de salud mental donde el RGPD no es opcional, sistemas de logística fronteriza para la UE que corren en camiones de verdad, y SDKs Bluetooth que hacen el transporte público accesible para personas con discapacidad visual. Tengo un Máster en Ingeniería de Telecomunicaciones, más de una década en Swift (y algo de Objective-C del que prefiero no hablar), y una filosofía de arquitectura que aguantó bien cuando me tocó mantenerla a mí misma.
 
 ---
 
